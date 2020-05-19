@@ -42,7 +42,7 @@ En este parte aparece el contenido del curso
 En esta parte se agrega el material de apoyo disponible en redes.  
 * *R for Data Science*, Wickham, Grolemund [[Ingles]](https://r4ds.had.co.nz/). [[Espanol]](https://es.r4ds.hadley.nz/)
 * *Learning R*, Cotton. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/Cotton.pdf)
-
+* *ggplot2*, Wickham. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/ggplot2.pdf)
 
 ## Clases 
 ---
