@@ -70,3 +70,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Sesion 4
 
 ### Sesion 5
+
+## Codigo
+--- 
+En el siguiente link puede consultar el codifo realizado en la diferentes clases. [[Codigo]](https://github.com/daandrader/curso-r/tree/master/code)
+
