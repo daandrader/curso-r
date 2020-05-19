@@ -63,11 +63,12 @@ Para más hojas de referencia puede consultar este [link](https://rstudio.com/re
 ---
 En este apartado se irán agregando las grabaciones de las clases.
 ### Sesión 1
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
-" target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-### Sesión 2
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Sesión 2
+
+
 ### Sesión 3
 
 ### Sesión 4
