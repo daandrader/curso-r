@@ -10,22 +10,26 @@ La instalacion para culquiera de las siguientes plataformas consta dos de partes
 
 ### Windows
 - [Base](https://cloud.r-project.org/bin/windows/base/R-4.0.0-win.exe)
-- [RStudio](https://download1.rstudio.org/desktop/windows/RStudio-1.2.5042.exe)
+- [RStudio](https://download1.rstudio.org/desktop/windows/RStudio-1.2.5042.exe)  
+
 ### macOS
 - [Base](https://cloud.r-project.org/bin/macosx/R-4.0.0.pkg)
 - [Rstudio](https://download1.rstudio.org/desktop/macos/RStudio-1.2.5042.dmg)  
+
 ### Linux
-- Base: Ubuntu y derivados
+Abra una terminal y ejecute los siguientes comandos: 
+
+- **Base**: Ubuntu y derivados
 ```
 sudo apt-get install r-base
 ```
--RStudio
+- **RStudio**
 ```
 sudo apt-get install gdebi-core
 wget https://download2.rstudio.org/server/trusty/amd64/rstudio-server-1.2.5042-amd64.deb
 sudo gdebi rstudio-server-1.2.5042-amd64.deb
 ```
-
+Para otras distribuciones consulte su gestor de paquetes.
 
 ## Contenido 
 ---  
