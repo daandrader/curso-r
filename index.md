@@ -2,11 +2,11 @@
 
 
 En este curso introductorio de R ...  
----
+
 ## Contenido 
 ---  
 En este parte aparece el contenido del curso
----
+
 ## Instalación de R
 ---
 La instalación para cualquiera de las siguientes plataformas consta dos de partes:
@@ -37,7 +37,7 @@ sudo gdebi rstudio-server-1.2.5042-amd64.deb
 
 Para otras distribuciones consulte su gestor de paquetes.
 
----
+
 ## Material de apoyo
 ---
 En esta parte se agrega el material de apoyo disponible en redes. 
@@ -58,7 +58,7 @@ También conocidas como cheat sheets, contienen información relevante y de ráp
 
 Para más hojas de referencia puede consultar este [link](https://rstudio.com/resources/cheatsheets/).
 
----
+
 ## Clases 
 ---
 En este apartado se irán agregando las grabaciones de las clases.
@@ -74,7 +74,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Sesión 5
 
----
+
 ## Código
 --- 
 En este [link](https://github.com/daandrader/curso-r/tree/master/code) puede consultar el código realizado en las diferentes clases. 
