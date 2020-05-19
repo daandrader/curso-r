@@ -48,6 +48,13 @@ En esta parte se agrega el material de apoyo disponible en redes.
 * *R Cookbook*, Teetor [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/cookbook.pdf)
 
 ### Hojas de Referencia
+Tambien conocidas como cheat sheets, contienen informacion relevante y de rapido acceso sobre codigos y conceptos. Utiles para consultas rapidas.
+
+* Conceptos base de R. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/base-r.pdf)
+* Visualizacion de datos. [[Ingles]](https://github.com/daandrader/curso-r/blob/master/books/data-visualization-2.1.pdf)
+* Importacion de datos.[[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-import.pdf)
+* Manipulacion de datos. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-transformation.pdf)
+
 
 ## Clases 
 ---
