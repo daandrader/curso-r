@@ -1,4 +1,4 @@
-# Introduccion a R
+# Introducci\'on a R
 
 
 En este curso introductorio de R ...  
