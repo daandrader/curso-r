@@ -1,9 +1,10 @@
 # Introduccion a R
----
+
 
 En este curso introductorio de R ...  
 
 ## Instalacion de R
+---
 La instalacion para culquiera de las siguientes plataformas consta dos de partes:
 1. **Base**: Los paquetes base de R, en estos se encuntran todas las funcionalidades basicas de R. Este paquete base no posse ninguna interfaz grafica y solo es accesible atraves de consola (binarios).  
 2. **IDE**: Un entorno de desarrollo integrado (integrated development environment), en el cual tendremos todas las herramientas graficas necesarias para la interaccion de con los paquetes base de R. En nuestro caso usaremos Rstudio el IDE mas popular para R.
@@ -37,10 +38,11 @@ Para otras distribuciones consulte su gestor de paquetes.
 En este parte aparece el contenido del curso
 
 ## Material de interes
-
+---
 En esta parte se agrega el material de apoyo disponible en redes.  
 
 ## Clases 
+---
 En es apartado se iran agregando las grabaciones de las clases.
 ### Sesion 1
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
