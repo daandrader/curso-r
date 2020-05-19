@@ -43,8 +43,8 @@ En esta parte se agrega el material de apoyo disponible en redes.
 ## Clases 
 En es apartado se iran agregando las grabaciones de las clases.
 ### Sesion 1
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=v4pi1LxuDHc
-" target="_blank"><img src="http://img.youtube.com/vi/v4pi1LxuDHc/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
+" target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Sesion 2
 ### Sesion 3
