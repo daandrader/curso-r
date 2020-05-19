@@ -75,5 +75,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Codigo
 --- 
-En el siguiente link puede consultar el codigo realizado en la diferentes clases. [[Codigo]](https://github.com/daandrader/curso-r/tree/master/code)
+En este [link](https://github.com/daandrader/curso-r/tree/master/code) puede consultar el codigo realizado en la diferentes clases. 
 
