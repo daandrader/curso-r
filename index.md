@@ -3,7 +3,7 @@
 
 En este curso introductorio de R ...  
 
-## Contenido 
+## **Contenido** 
 ---  
 En este parte aparece el contenido del curso
 
