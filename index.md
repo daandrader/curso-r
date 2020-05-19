@@ -6,6 +6,9 @@ You can use the [editor on GitHub](https://github.com/daandrader/curso-r/edit/ma
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Instalacion de R
+La instalacion para culquiera de las siguientes plataformas consta dos de partes:
+1. Base: Los paquetes base de R, en estos se encuntran todas las funcionalidades basicas de R. Este paquete base no posse ninguna interfaz grafica y solo es accesible atraves de consola.
+2. IDE: Un entorno de desarrollo integrado (integrated development environment), en el cual tendremos todas las herramientas graficas necesarias para la interaccion de con los paquetes base de R. En nuestro caso usaremos Rstudio el IDE mas popular para R.
 ### Windows
 
 ### macOS
