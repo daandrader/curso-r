@@ -14,8 +14,8 @@ La instalacion para culquiera de las siguientes plataformas consta dos de partes
 - [Base](https://cloud.r-project.org/bin/windows/base/R-4.0.0-win.exe)
 - [RStudio](https://download1.rstudio.org/desktop/windows/RStudio-1.2.5042.exe)
 ### macOS
-[Base](https://cloud.r-project.org/bin/macosx/R-4.0.0.pkg)
-[Rstudio](https://download1.rstudio.org/desktop/macos/RStudio-1.2.5042.dmg)
+- [Base](https://cloud.r-project.org/bin/macosx/R-4.0.0.pkg)
+- [Rstudio](https://download1.rstudio.org/desktop/macos/RStudio-1.2.5042.dmg)
 ### Linux
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
