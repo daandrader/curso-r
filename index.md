@@ -10,8 +10,8 @@ En este parte aparece el contenido del curso
 ## Instalación de R
 ---
 La instalación para cualquiera de las siguientes plataformas consta dos de partes:
-1. **Base**: Los paquetes base de R, en estos se encuentran todas las funcionalidades básicas de R. Este paquete base no posse ninguna interfaz grafica y solo es accesible a través de consola (binarios).  
-2. **IDE**: Un entorno de desarrollo integrado (integrated development environment), en el cual tendremos todas las herramientas graficas necesarias para la interacción de con los paquetes base de R. En nuestro caso usaremos Rstudio el IDE mas popular para R.
+1. **Base**: Los paquetes base de R, en estos se encuentran todas las funcionalidades básicas de R. Este paquete base no posee ninguna interfaz gráfica y solo es accesible a través de consola (binarios).  
+2. **IDE**: Un entorno de desarrollo integrado (integrated development environment), en el cual tendremos todas las herramientas graficas necesarias para la interacción de con los paquetes base de R. En nuestro caso usaremos RStudio el IDE más popular para R.
 
 ### Windows
 - [Base](https://cloud.r-project.org/bin/windows/base/R-4.0.0-win.exe)
@@ -43,25 +43,25 @@ Para otras distribuciones consulte su gestor de paquetes.
 En esta parte se agrega el material de apoyo disponible en redes. 
 
 ### Libros
-* *R for Data Science*, Wickham, Grolemund [[Ingles]](https://r4ds.had.co.nz/). [[Español]](https://es.r4ds.hadley.nz/)
-* *Learning R*, Cotton. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/Cotton.pdf)
-* *ggplot2*, Wickham. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/ggplot2.pdf)
-* *R Cookbook*, Teetor [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/cookbook.pdf)
+* *R for Data Science*, Wickham, Grolemund [[Inglés]](https://r4ds.had.co.nz/). [[Español]](https://es.r4ds.hadley.nz/)
+* *Learning R*, Cotton. [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/Cotton.pdf)
+* *ggplot2*, Wickham. [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/ggplot2.pdf)
+* *R Cookbook*, Teetor [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/cookbook.pdf)
 
 ### Hojas de Referencia
 También conocidas como cheat sheets, contienen información relevante y de rápido acceso sobre códigos y conceptos. Útiles para consultas rápidas.
 
-* Conceptos base de R. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/base-r.pdf)
-* Visualización de datos. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-visualization-2.1.pdf)
-* Importación de datos.[[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-import.pdf)
-* Manipulación de datos. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-transformation.pdf)
+* Conceptos base de R. [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/base-r.pdf)
+* Visualización de datos. [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/data-visualization-2.1.pdf)
+* Importación de datos. [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/data-import.pdf)
+* Manipulación de datos. [[Inglés]](https://github.com/daandrader/curso-r/raw/master/books/data-transformation.pdf)
 
-Para mas hojas de referencia puede consultar este [link](https://rstudio.com/resources/cheatsheets/).
+Para más hojas de referencia puede consultar este [link](https://rstudio.com/resources/cheatsheets/).
 
 
 ## Clases 
 ---
-En es apartado se irán agregando las grabaciones de las clases.
+En este apartado se irán agregando las grabaciones de las clases.
 ### Sesión 1
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dQw4w9WgXcQ
 " target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
@@ -76,5 +76,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Código
 --- 
-En este [link](https://github.com/daandrader/curso-r/tree/master/code) puede consultar el código realizado en la diferentes clases. 
+En este [link](https://github.com/daandrader/curso-r/tree/master/code) puede consultar el código realizado en las diferentes clases. 
 
