@@ -3,6 +3,10 @@
 
 En este curso introductorio de R ...  
 
+## Contenido 
+---  
+En este parte aparece el contenido del curso
+
 ## Instalacion de R
 ---
 La instalacion para culquiera de las siguientes plataformas consta dos de partes:
@@ -33,9 +37,6 @@ sudo gdebi rstudio-server-1.2.5042-amd64.deb
 
 Para otras distribuciones consulte su gestor de paquetes.
 
-## Contenido 
----  
-En este parte aparece el contenido del curso
 
 ## Material de apoyo
 ---
