@@ -67,7 +67,7 @@ En este apartado se irán agregando las grabaciones de las clases.
 " target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Sesión 2
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ### Sesión 3
 
 ### Sesión 4
