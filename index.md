@@ -47,6 +47,9 @@ En es apartado se iran agregando las grabaciones de las clases.
 " target="_blank"><img src="http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Sesion 2
+
 ### Sesion 3
+
 ### Sesion 4
+
 ### Sesion 5
