@@ -29,6 +29,7 @@ sudo apt-get install gdebi-core
 wget https://download2.rstudio.org/server/trusty/amd64/rstudio-server-1.2.5042-amd64.deb
 sudo gdebi rstudio-server-1.2.5042-amd64.deb
 ```
+
 Para otras distribuciones consulte su gestor de paquetes.
 
 ## Contenido 
@@ -38,3 +39,11 @@ En este parte aparece el contenido del curso
 ## Material de interes
 
 En esta parte se agrega el material de apoyo disponible en redes.  
+
+## Clases 
+En es apartado se iran agregando las grabaciones de las clases.
+### Sesion 1
+### Sesion 2
+### Sesion 3
+### Sesion 4
+### Sesion 5
