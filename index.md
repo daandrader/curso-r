@@ -55,6 +55,8 @@ Tambien conocidas como cheat sheets, contienen informacion relevante y de rapido
 * Importacion de datos.[[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-import.pdf)
 * Manipulacion de datos. [[Ingles]](https://github.com/daandrader/curso-r/raw/master/books/data-transformation.pdf)
 
+Para mas hojas de referencia puede consultar este [link](https://rstudio.com/resources/cheatsheets/).
+
 
 ## Clases 
 ---
@@ -73,5 +75,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Codigo
 --- 
-En el siguiente link puede consultar el codifo realizado en la diferentes clases. [[Codigo]](https://github.com/daandrader/curso-r/tree/master/code)
+En el siguiente link puede consultar el codigo realizado en la diferentes clases. [[Codigo]](https://github.com/daandrader/curso-r/tree/master/code)
 
