@@ -40,8 +40,8 @@ En este parte aparece el contenido del curso
 ## Material de apoyo
 ---
 En esta parte se agrega el material de apoyo disponible en redes.  
-* R for Data Science, Wickham, Grolemund [Ingles](https://r4ds.had.co.nz/). [Espanol](https://es.r4ds.hadley.nz/)
-
+* R for Data Science, Wickham, Grolemund [[Ingles]](https://r4ds.had.co.nz/). [[Espanol]](https://es.r4ds.hadley.nz/)
+* Learning R, Cotton. [[Ingles]](http://duhi23.github.io/Analisis-de-datos/Cotton.pdf)
 ## Clases 
 ---
 En es apartado se iran agregando las grabaciones de las clases.
