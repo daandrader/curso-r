@@ -92,7 +92,7 @@ body {
   background: none;
 }
 
-@media(min-width:600px) {
+@media(max-width:768px) {
   #wrapper {
     padding-left: 0;
   }
