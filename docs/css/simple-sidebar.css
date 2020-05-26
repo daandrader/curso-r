@@ -97,6 +97,31 @@ body {
     padding-left: 0;
   }
   #wrapper.toggled {
+    padding-left: 0px;
+    position: relative;
+  }
+  #sidebar-wrapper {
+    width: 0px;
+  }
+  #wrapper.toggled #sidebar-wrapper {
+    width: 0px;
+    
+  }
+  #page-content-wrapper {
+    padding: 20px;
+    position: relative;
+  }
+  #wrapper.toggled #page-content-wrapper {
+    position: relative;
+    margin-right: 0;
+  }
+}
+/*
+@media(min-width:768px) {
+  #wrapper {
+    padding-left: 0;
+  }
+  #wrapper.toggled {
     padding-left: 250px;
   }
   #sidebar-wrapper {
@@ -114,3 +139,4 @@ body {
     margin-right: 0;
   }
 }
+*/
