@@ -101,15 +101,14 @@ body {
     position: relative;
   }
   #sidebar-wrapper {
-    width: 0px;
+    margin-left: 0;
   }
   #wrapper.toggled #sidebar-wrapper {
-    width: 0px;
-    
+    margin-left: -15rem;
   }
   #page-content-wrapper {
-    padding: 20px;
-    position: relative;
+    min-width: 0;
+    width: 100%;
   }
   #wrapper.toggled #page-content-wrapper {
     position: relative;
